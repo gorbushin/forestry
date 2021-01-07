@@ -10,8 +10,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/blog
-  label: Post
+  path: content/articles
+  label: Articles
   create: documents
   match: "*"
   templates:
