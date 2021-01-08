@@ -2,7 +2,7 @@
 date = 2019-05-12T06:14:34Z
 description = "This is meta description."
 draft = true
-image = "images/blog/post-3.jpg"
+image = "/images/blog/post-1.jpg"
 title = "Duplicated Page goes here"
 
 +++
